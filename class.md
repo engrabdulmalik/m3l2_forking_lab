@@ -1,3 +1,3 @@
 Abdul 
 Lahore,Pakistan
-Meta Front-End Developer
+Meta Front-End Developer 
